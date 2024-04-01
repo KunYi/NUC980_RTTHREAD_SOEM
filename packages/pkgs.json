@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/iot/netutils", 
+  "ver": "latest", 
+  "name": "NETUTILS"
+ }, 
+ {
+  "path": "/packages/system/uffs", 
+  "ver": "latest", 
+  "name": "UFFS"
+ }, 
+ {
+  "path": "/packages/misc/optparse", 
+  "ver": "latest", 
+  "name": "OPTPARSE"
+ }
+]
